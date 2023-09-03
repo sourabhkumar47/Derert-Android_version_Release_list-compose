@@ -21,23 +21,23 @@ package com.example.dessertrelease.data.local
  */
 object LocalDessertReleaseData {
     val dessertReleases = listOf(
-        "Cupcake",
-        "Donut",
-        "Eclair",
-        "Froyo",
-        "Gingerbread",
-        "Honeycomb",
-        "Ice Cream Sandwich",
-        "Jelly Bean",
-        "KitKat",
-        "Lollipop",
-        "Marshmallow",
-        "Nougat",
-        "Oreo",
-        "Pie",
-        "Quince Tart",
-        "Red Velvet Cake",
-        "Snow Cone",
-        "Tiramisu"
+        "1.5 Cupcake",
+        "1.6 Donut",
+        "2 Eclair",
+        "2.2 Froyo",
+        "2.3 Gingerbread",
+        "3 Honeycomb",
+        "4 Ice Cream Sandwich",
+        "4.1 Jelly Bean",
+        "4.4 KitKat",
+        "5 Lollipop",
+        "6 Marshmallow",
+        "7 Nougat",
+        "8 Oreo",
+        "9 Pie",
+        "10 Quince Tart",
+        "11 Red Velvet Cake",
+        "12 Snow Cone",
+        "13 Tiramisu"
     )
 }
